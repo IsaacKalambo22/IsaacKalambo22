@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hello, I'm Isaac Kalambo
+
+## 🚀 About Me
+I'm a passionate developer based in Lilongwe, Malawi. I enjoy building applications that solve real-world problems and contribute to the tech community.
+
+## 🛠️ Technologies & Tools
+- Languages: Dart, TypeScript, JavaScript
+- Frameworks: Flutter, React
+- Tools: Git, VS Code, Figma
+
+## 🔧 Favorite Technologies
+Here are some of my favorite tools and technologies I love working with:
+
+- 🧱 Dart & Flutter
+- ⚛️ TypeScript & React
+- 🌐 Firebase & Supabase
+- 🔬 Node.js & Express
+- 🔧 MongoDB & PostgreSQL
+- 📊 Git & GitHub
+- 🖊️ VS Code, Figma
+
+## 📘 Notable Projects
+- [Job Finder App](https://github.com/IsaacKalambo22/Job_finder_app): A mobile application to help users find job opportunities.
+- [CarHub](https://github.com/IsaacKalambo22/CarHub): A website showcasing a variety of cars from around the world.
+- [PromptHub](https://github.com/IsaacKalambo22/PromptHub): A platform for sharing and discovering prompts.
+
+## 💋 Connect with Me
+- 💼 [Codeium Profile](https://codeium.com/profile/maximally-untiring-escargot-04954)
+- 🌐 [LinkedIn](#) *(Add your LinkedIn URL here)*
+- 📧 Email: *(Add your email address here)*
 
 <!--
 **IsaacKalambo22/IsaacKalambo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
