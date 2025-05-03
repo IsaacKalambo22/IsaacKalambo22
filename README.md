@@ -26,7 +26,7 @@ Here are some of my favorite tools and technologies I love working with:
 
 ## 💋 Connect with Me
 - 💼 [Codeium Profile](https://codeium.com/profile/maximally-untiring-escargot-04954)
-- 🌐 [LinkedIn](#) *(Add your LinkedIn URL here)*
+- 🌐 [LinkedIn](#) *(https://www.linkedin.com/in/isaac-kalambo-973bba339)*
 - 📧 Email: *(kalamboisaac405@gmail.com)*
 
 <!--
