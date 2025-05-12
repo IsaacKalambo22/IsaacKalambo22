@@ -48,8 +48,8 @@ Here are some of my favorite tools and technologies I love working with:
 
 ## 💋 Connect with Me
 - 💼 [Codeium Profile](https://codeium.com/profile/maximally-untiring-escargot-04954)
-- 🌐 [LinkedIn](#) *(https://www.linkedin.com/in/isaac-kalambo-973bba339)*
-- 📧 Email: *(kalamboisaac405@gmail.com)*
+- 🌐 [LinkedIn](#) https://www.linkedin.com/in/isaac-kalambo-973bba339
+- 📧 Email: (kalamboisaac405@gmail.com)
 
 <!--
 **IsaacKalambo22/IsaacKalambo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
