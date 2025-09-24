@@ -83,6 +83,7 @@ Project management, agile development
   <b><a href="https://github.com/IsaacKalambo22/Job_finder_app">Job Finder App</a></b> — Mobile application for job opportunities<br/>
   <b><a href="https://github.com/IsaacKalambo22/CarHub">CarHub</a></b> — Website showcasing cars worldwide<br/>
   <b><a href="https://github.com/IsaacKalambo22/PromptHub">PromptHub</a></b> — Platform for sharing and discovering prompts
+  <b><a href="https://github.com/IsaacKalambo22/my-portifolio">My Portifolio</a></b>
 </h3>
 
 <hr/>
