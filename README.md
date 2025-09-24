@@ -1,56 +1,98 @@
-# 👋 Hello, I'm Isaac Kalambo
+<h1 align="center">👋 Isaac Kalambo (@IsaacKalambo22)</h1>
+<h2 align="center">Full-Stack Developer — Based in Lilongwe, Malawi</h2>
 
-## 🚀 About Me
-I'm a passionate developer based in Lilongwe, Malawi. I enjoy building applications that solve real-world problems and contribute to the tech community.
+<h3 align="center">
+  🚀 Mobile & Web Developer · <b>Flutter</b> · <b>React</b> · <b>Next.js</b> · <b>TypeScript</b><br/>
+  Idea → Design → Frontend/Backend → Deploy → Release → Repeat
+</h3>
 
-## 🛠️ Technologies & Tools
-- Languages: Dart, TypeScript, JavaScript
-- Frameworks: Flutter, React, Next.js
-- Tools: Git, VS Code, Figma
+<p align="center">
+  <b><a href="https://www.linkedin.com/in/isaac-kalambo-973bba339">LinkedIn</a></b> ·
+  <b><a href="https://codeium.com/profile/maximally-untiring-escargot-04954">Codeium</a></b> ·
+  <b><a href="mailto:kalamboisaac405@gmail.com">Email</a></b>
+</p>
 
-## 🔧 Favorite Technologies
-Here are some of my favorite tools and technologies I love working with:
+<hr/>
 
-### 🖥️ Frontend
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org)
-[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=white)](https://reactnative.dev)
+<h2 align="center">🧠 Stack</h2>
 
-### 🎨 UI Libraries
-![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-000000?style=flat&logo=react&logoColor=white)
-![Ectenity UI](https://img.shields.io/badge/-Ectenity%20UI-3B82F6?style=flat&logo=react&logoColor=white)
-![Tailark](https://img.shields.io/badge/-Tailark-0EA5E9?style=flat&logo=react&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,ts,js,react,nextjs,reactnative,tailwind,nodejs,express,prisma,postgres,mongodb,supabase,firebase,git,github,vscode,figma&perline=10&theme=dark" />
+</p>
 
-### 🧠 Backend
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com)
-[![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)](https://www.prisma.io)
+<details align="center">
+<summary><b>▼ More tools (click)</b></summary>
+<div align="center">
 
-### 🗄️ Databases & Platforms
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com)
-[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com)
+<h3>📱 Mobile Development</h3>
+Flutter, Dart, React Native<br/>
+Cross-platform development, native performance<br/>
+State management (Provider, Bloc, Riverpod)<br/>
+Firebase integration, push notifications<br/><br/>
 
-### 🛠️ Dev Tools
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://figma.com)
+<h3>🎨 Frontend</h3>
+React, Next.js (SSR/SSG), TypeScript, JavaScript<br/>
+TailwindCSS, Shadcn UI, Ectenity UI, Tailark<br/>
+State management (Zustand, Context API)<br/>
+Responsive design, PWA, SEO optimization<br/><br/>
 
-## 📘 Notable Projects
-- [Job Finder App](https://github.com/IsaacKalambo22/Job_finder_app): A mobile application to help users find job opportunities.
-- [CarHub](https://github.com/IsaacKalambo22/CarHub): A website showcasing a variety of cars from around the world.
-- [PromptHub](https://github.com/IsaacKalambo22/PromptHub): A platform for sharing and discovering prompts.
+<h3>🔧 Backend</h3>
+Node.js, Express.js, REST APIs<br/>
+Prisma ORM, database migrations<br/>
+Authentication (JWT, OAuth)<br/>
+API design, middleware, error handling<br/><br/>
 
+<h3>🗄️ Databases & Platforms</h3>
+PostgreSQL, MongoDB, Supabase, Firebase<br/>
+Database design, indexing, optimization<br/>
+Real-time features, cloud functions<br/>
+Data modeling, relationships<br/><br/>
 
-## 💋 Connect with Me
-- 💼 [Codeium Profile](https://codeium.com/profile/maximally-untiring-escargot-04954)
-- 🌐 [LinkedIn]: https://www.linkedin.com/in/isaac-kalambo-973bba339
-- 📧 Email: kalamboisaac405@gmail.com
+<h3>🛠️ Dev Tools</h3>
+Git, GitHub, VS Code, Figma<br/>
+Version control, CI/CD, testing<br/>
+Code review, documentation<br/>
+Project management, agile development
 
-<!--
-**IsaacKalambo22/IsaacKalambo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+</div>
+</details>
+
+<hr/>
+
+<h2 align="center">🏆 Highlights</h2>
+
+<h3 align="center">🚀 Built <b>3+ notable projects</b> from scratch — mobile & web applications</h3>
+<h3 align="center">📱 <b>Cross-platform expertise:</b> Flutter & React Native development</h3>
+<h3 align="center">🌐 <b>Full-stack capabilities:</b> Frontend to Backend integration</h3>
+<h3 align="center">🎨 <b>UI/UX focused:</b> Modern, responsive, and accessible designs</h3>
+<h3 align="center">🔧 <b>Problem solver:</b> Building applications that solve real-world problems</h3>
+
+<hr/>
+
+<h2 align="center">📈 Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaacKalambo22&theme=react-dark&hide_border=true&area=true&custom_title=Isaac's%20Contribution%20Graph" />
+</p>
+
+<hr/>
+
+<h2 align="center">📫 Notable Projects</h2>
+
+<h3 align="center">
+  <b><a href="https://github.com/IsaacKalambo22/Job_finder_app">Job Finder App</a></b> — Mobile application for job opportunities<br/>
+  <b><a href="https://github.com/IsaacKalambo22/CarHub">CarHub</a></b> — Website showcasing cars worldwide<br/>
+  <b><a href="https://github.com/IsaacKalambo22/PromptHub">PromptHub</a></b> — Platform for sharing and discovering prompts
+</h3>
+
+<hr/>
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<h3 align="center">
+  Need a <b>mobile app</b> or <b>web solution</b>? Let's build something amazing together.
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/isaac-kalambo-973bba339">LinkedIn</a> · <a href="https://codeium.com/profile/maximally-untiring-escargot-04954">Codeium</a> · <a href="mailto:kalamboisaac405@gmail.com">Email</a>
+</p>
