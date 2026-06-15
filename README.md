@@ -30,29 +30,8 @@ I'm a Full-Stack Developer who specializes in building **production-grade applic
 
 ## 🛠️ Tech Stack
 
-### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,javascript,tailwind" alt="Frontend" />
-</p>
-
-### Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,reactnative" alt="Mobile" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
-</p>
-
-### Database & ORM
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" alt="Database" />
-</p>
-
-### Platforms & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,vercel,git,github,figma" alt="Platforms" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,flutter,dart,reactnative,nodejs,express,postgres,mongodb,prisma,supabase,firebase,vercel,git,github,figma&perline=9&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
