@@ -31,7 +31,11 @@ I'm a Full-Stack Developer who specializes in building **production-grade applic
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,flutter,dart,reactnative,nodejs,express,postgres,mongodb,prisma,supabase,firebase,vercel,git,github,figma&perline=9&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,flutter,dart,reactnative,nodejs,express,postgres,mongodb,prisma,supabase,firebase,vercel,git,github,figma,netlify,railway&perline=10&theme=dark" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <i>Shadcn UI • Aceternity UI • Tailark • Better Auth</i>
 </p>
 
 ---
